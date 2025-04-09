@@ -1,0 +1,10 @@
+#Navlink button{
+    font-size: 1.1rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &:hover{
+        color: rgb(211, 59, 84);
+    }
+}
